@@ -8,4 +8,5 @@
 * Para la parte lógica se crea una interfaz y se emplea
 
 ### En el siguiente enlace se puede ver un video del tiempo real de la escritura de este código
-[Ver video en YouTube] https://www.youtube.com/watch?v=rrYfpQ0uwR8&t=5s&ab_channel=luceroemmanueling
+
+[Ver vídeo en YouTube](https://www.youtube.com/watch?v=rrYfpQ0uwR8&t=5s&ab_channel=luceroemmanueling "Tiempo real de la escritura del código")
