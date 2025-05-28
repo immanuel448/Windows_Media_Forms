@@ -34,7 +34,7 @@ Implementar una pequeña aplicación con una interfaz gráfica sencilla que perm
 
 1. Clona el repositorio:
    ```bash
-   git clone https://github.com/tu-usuario/nombre-del-repositorio.git
+   git clone https://github.com/immanuel448/Windows_Media_Forms.git
 
 
 
